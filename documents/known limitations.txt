@@ -1,0 +1,7 @@
+Known limitations of this agent:
+
+1. The agent might struggle to grasp the full context behind a patient’s request, such as complex rescheduling requirements due to chronic illness.
+2. Some patients who are less tech-savvy may struggle with automated systems and would prefer human interaction.
+3. If an integrated service such as SMS or email goes down, reminders or notifications may not work.
+4. If patients enter incorrect or incomplete information, the agent might schedule appointments inaccurately or not at all.
+5. Handling thousands of appointment requests simultaneously may overwhelm the system, causing delays or crashes.
